@@ -1,3 +1,1 @@
 # coder-image.png
-
-ritesh 
